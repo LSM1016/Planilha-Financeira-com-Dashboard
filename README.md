@@ -1,22 +1,15 @@
-# Planilha de Gestão Financeira :moneybag:
-Este repositório contém uma planilha de gestão financeira, desenvolvida no Microsoft Excel como parte do projeto final do Bootcamp CAIXA - IA Generativa com Microsoft Copilot, ministrado pela DIO.
+# Planilha de Gestão Financeira:
+Planilha para organização de receitas e despesas pessoais.
 
-# Sobre a Planilha :clipboard:
-- A planilha foi projetada para facilitar o controle financeiro pessoal ou familiar, utilizando recursos avançados do Excel. Ela permite:
-- Registro de entradas e saídas financeiras: controle detalhado de receitas e despesas diretamente na aba "Data".
-- Cálculo do dinheiro economizado: análise automática do saldo disponível.
-- Dashboard interativo: exibe gráficos e tabelas dinâmicas gerados a partir dos dados inseridos, permitindo uma visão clara e detalhada das finanças.
-  
-# Recursos :computer:
-- Tabelas dinâmicas: organizam os dados automaticamente para facilitar a análise.
-- Gráficos interativos: fornecem uma representação visual das informações financeiras.
-- Automação do Dashboard: os resultados são gerados automaticamente com base nos dados inseridos na aba "Data".
-- Simples e intuitiva: ideal para qualquer pessoa que deseja gerenciar suas finanças com eficiência.
-  
-# Como Utilizar :memo:
-1. Faça o download da planilha.
-2. Abra o arquivo no Microsoft Excel.
-3. Preencha a aba "Data" com as informações de entradas e saídas financeiras.
-4. Acesse o Dashboard para visualizar gráficos, tabelas dinâmicas e análises automáticas de seus dados.
-   
-:keyboard: por Keylla da :orange_heart::blue_heart: CAIXA:package:
+# Sobre a Planilha 
+A Planilha foi gerada no excel e contem os principais tópicos referentes as despesas mensais.
+Pode ser preenchida de acordo com a data, valor, entrada ou saída, para melhor controle financeiro.
+
+# Recursos:
+- Excel
+    
+# Como Utilizar :
+   A Planilha é fácil de manusear, permite o controle de gastos, bem como a visualização atravéz de dashboard, para melhor entendimento e explanação. 
+
+# Para visualizar:
+"C:\Users\C121580\OneDrive - Caixa Economica Federal\Área de Trabalho\Planilha_Financeira.xlsx"
